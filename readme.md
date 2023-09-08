@@ -7,7 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## 關於LKB
+## About this system
 
-LKB是一個借貸媒合的網站，與其他媒合平台不一樣的地方是更好的媒合演算法。
+LKBMatchSystem is my side-project. Use to less the time for borrowing money. Matching two stangers and let borrow/return money can be trust.
+
+## About Laravel
+
+Laravel is a web application framework with expressive, elegant syntax. Hopefully you have 1-2 year experience in using laravel framework before.
+
+## How to install
+
+1. $git pull this repo.
+2. $composer install
+3. $php artisan migrate
+4. enjoy :)
 
